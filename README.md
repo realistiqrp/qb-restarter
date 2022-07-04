@@ -1,8 +1,7 @@
-# qb-multicharacter
-Restart Announces for the QBCore Framewok 💬
+# qb-restarter
+Restart Announces for the QBCore Framewok :people_holding_hands:
 
 # License
-
     QBCore Restarter
     Copyright (C) 2022 Bart Verschuren
 
@@ -29,7 +28,7 @@ Restart Announces for the QBCore Framewok 💬
 - Go to `qb-core/html/css/style.css` and add the following at line `26`, you can change the colors if you want:
 ```css
 .restart {
-    background-color: rgba(41, 41, 41, 90%);
+    background-color: rgba(23, 23, 23, 90%); 
     border-radius: 10px;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
     border-left: 5px solid #DA004E;
