@@ -1,5 +1,5 @@
 # qb-multicharacter
-Restart Announces for the QBCore Framewok :people_holding_hands:
+Restart Announces for the QBCore Framewok 💬
 
 # License
 
